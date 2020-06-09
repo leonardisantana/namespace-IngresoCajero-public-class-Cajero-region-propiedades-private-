@@ -1,0 +1,1 @@
+# namespace-IngresoCajero-public-class-Cajero-region-propiedades-private-
